@@ -1,0 +1,24 @@
+# Pre-trained weights (hosted separately — too large for git)
+checkpoints/
+checkpoints2/
+*.bin
+*.ckpt
+*.safetensors
+
+# Inference outputs
+outputs/
+inference_ori/
+inference/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Env / editor
+.venv/
+.env
+.vscode/
+.idea/
+.DS_Store

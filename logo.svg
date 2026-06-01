@@ -1,0 +1,10 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Back layer: reflection (blue) -->
+  <rect x="4" y="14" width="44" height="44" rx="8" fill="#2980b9"/>
+  <rect x="4" y="14" width="44" height="44" rx="8" fill="none" stroke="#1d6391" stroke-width="1.5"/>
+  <!-- Front layer: transmission (red), offset up-right -->
+  <rect x="16" y="4" width="44" height="44" rx="8" fill="#e74c3c"/>
+  <rect x="16" y="4" width="44" height="44" rx="8" fill="none" stroke="#a83025" stroke-width="1.5"/>
+  <!-- Glass-shine highlight -->
+  <path d="M 20 8 Q 24 10 24 14 L 24 24 Q 22 22 20 18 Z" fill="#fff" opacity="0.3"/>
+</svg>
