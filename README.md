@@ -3,7 +3,7 @@
 <h2><img src="logo.svg" height="26" align="absmiddle" alt="DiffRS logo"> Reflection Separation from a Single Image via Joint Latent Diffusion</h2>
 
 [![project page](https://img.shields.io/badge/Project-Page-2ea44f)](https://brian90709.github.io/diff-reflection-separation/)&nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](#)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-2606.04107-b31b1b.svg)](https://arxiv.org/abs/2606.04107)&nbsp;
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/Brian9999/diff-reflection-separation)&nbsp;
 
 [Zheng-Hui Huang](https://brian90709.github.io/)<sup>1,2</sup>, [Zhixiang Wang](https://lightchaserx.github.io)<sup>1&#42;</sup>, [Yu-Lun Liu](https://yulunalexliu.github.io)<sup>3</sup>, [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)<sup>2</sup>
