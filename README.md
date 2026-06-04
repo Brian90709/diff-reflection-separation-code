@@ -6,7 +6,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](#)&nbsp;
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/Brian9999/diff-reflection-separation)&nbsp;
 
-[Zheng-Hui Huang](https://github.com/Brian90709)<sup>1,2</sup>, [Zhixiang Wang](https://lightchaserx.github.io)<sup>1&#42;</sup>, [Yu-Lun Liu](https://yulunalexliu.github.io)<sup>3</sup>, [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)<sup>2</sup>
+[Zheng-Hui Huang](https://brian90709.github.io/)<sup>1,2</sup>, [Zhixiang Wang](https://lightchaserx.github.io)<sup>1&#42;</sup>, [Yu-Lun Liu](https://yulunalexliu.github.io)<sup>3</sup>, [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)<sup>2</sup>
 
 <sup>1</sup>Shanda AI Research Tokyo &nbsp; <sup>2</sup>National Taiwan University &nbsp; <sup>3</sup>National Yang Ming Chiao Tung University
 
